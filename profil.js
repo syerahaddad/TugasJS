@@ -14,6 +14,9 @@ document.writeln('    <ul>');
 document.writeln('        <li class="hobi">Menonton Film</li>');
 document.writeln('        <li class="hobi">Mendengarkan Musik</li>');
 document.writeln('        <li class="hobi">Melukis</li>');
+document.writeln('        <li class="hobi">Menyanyi</li>');
+document.writeln('        <li class="hobi">Menari</li>');
+document.writeln('        <li class="hobi">Masak</li>');
 document.writeln('    </ul>');
 document.writeln('</div>');
 
